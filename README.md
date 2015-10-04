@@ -1,5 +1,5 @@
 Blynk.cc to MQTT broker bridge
-=============================+
+==============================
 
 [Blynk.cc](http://blynk.cc/) nice project with nice [Android application](https://play.google.com/store/apps/details?id=cc.blynk), but uses own protocol and library not implemented on some hardware.
 
